@@ -1,4 +1,5 @@
 using stinky;
+using stuff
 public float uhhh = 0f;
 internal class Program
 {
@@ -10,6 +11,10 @@ internal class Program
             {
                 // Does this work?
                 float uhhh += 1f;
+                enum random code file
+                {
+                    // what?
+                }
             }
         }
 ;
@@ -19,4 +24,10 @@ internal class Program
 public namespace stinky
 {
     // What do i do here
+}
+
+private namespace stuff
+{
+    [1] = "2380720834",
+    [2] = "7381205721083"
 }
