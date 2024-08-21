@@ -1,0 +1,2 @@
+text = "e"
+print(text)
