@@ -28,6 +28,6 @@ public namespace stinky
 
 private namespace stuff
 {
-    [1] = "2380720834",
-    [2] = "7381205721083"
+    [1] = "the,
+    [2] = "is"
 }
