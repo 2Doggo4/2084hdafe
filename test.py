@@ -1,5 +1,4 @@
-function(); {
-     print("hai")
-}
+def printy():
+    print("Hello, World!")
 
-function()
+printy()
